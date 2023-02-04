@@ -1,0 +1,1 @@
+# Bir_Araliktaki_Asal_Sayi_Listesi
